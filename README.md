@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on an android application project
-- 🌱 I’m currently learning Kotlin and Web3
 - 💬 Ask me about Speaking and Mobile Apps 
 - 📫 How to reach me: sabiha.shaik121@gmail.com
 - 😄 Pronouns: She/Her
