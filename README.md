@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on an android application project
+- 📕  I'm currently learning Kotlin, Accessibility for Mobile Apps, Jira and Discrete Math!
 - 💬 Ask me about speaking and mobile apps 
 - 📫 How to reach me: sabiha.shaik121@gmail.com
 - 😄 Pronouns: She/Her
