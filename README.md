@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sabiha Shaik!
-#### Android App Developer and UI/UX Enthusiast 
+#### Android App Developer, UI/UX Developer and maker for social good!
 
 
  ### What I'm doing: 
@@ -11,7 +11,8 @@
 - ⚡ Fun fact: I'm a Gold Microsoft Learn Student Ambassador. Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in! 
 
 ### Upcoming Events 🌐
-🏆 I've been recently been selected as the finalist for 'IT Graduate of the Year' Award by Women Tech, Vote [here](https://www.womentech.net/nominee/Sabiha/Shaik/46664).
+- 🏆 I've been recently been selected as the finalist for 'IT Graduate of the Year' Award by Women Tech, Vote [here](https://www.womentech.net/nominee/Sabiha/Shaik/46664)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h6> Languages </h6>
