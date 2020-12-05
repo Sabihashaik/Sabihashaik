@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sabiha Shaik!
-#### Android App Developer, UI/UX Developer and maker for social good!
+#### A Recent Graduate, Android App Developer, UI/UX Developer and maker for social good!
 
 
  ### What I'm doing: 
