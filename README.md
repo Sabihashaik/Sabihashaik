@@ -4,8 +4,6 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on WeConnect, an android app as a personal project 
-- 🌱 I’m currently learning Kotlin, Accessibility for Mobile Apps, Jira and Discrete Math! 
 - 👯 I’m looking to collaborate on Android apps and conference events 
 - 📫 How to reach me: sabiha.shaik121@gmail.com 
 - ⚡ Fun fact: I'm a Gold Microsoft Learn Student Ambassador. Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in! 
