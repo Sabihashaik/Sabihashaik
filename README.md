@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Sabiha Shaik!
-#### An Incoming MS in Computer Science and Engineering Student, Android App Developer, UI/UX Developer and maker for social good!
+#### An MS in Computer Science and Engineering Student specializing in Artificial Intelligence. I'm interested in Mobile app development, AR/VR/MR and security!
 
 
  ### What I'm doing: 
  
-- 👯 I’m looking to collaborate on Android apps and conference events 
+- 👯 I’m looking to collaborate on conference events
 - 📫 How to reach me: sabiha.shaik121@gmail.com 
 - ⚡ Fun fact: I'm a Gold Microsoft Learn Student Ambassador. Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in! 
 
