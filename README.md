@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sabiha Shaik!
-#### An MS in Computer Science and Engineering Student specializing in Artificial Intelligence. I'm interested in AI, AR/VR/MR and security!
+#### I'm a recent MS in Computer Science and Engineering Graduate specializing in Artificial Intelligence. I'm interested in AI, AR/VR/MR and security!
 
 📫 How to reach me: sabiha.shaik121@gmail.com 
 
